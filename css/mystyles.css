@@ -1,0 +1,64 @@
+
+.pogoda_informer * {
+   font-family: arial!important;
+   text-align: center!important;
+   font-weight: normal!important;
+   font-size: 11px!important;
+   line-height: 12px!important;
+   text-decoration: none!important;
+}
+
+.pogoda_informer {
+   border: 1px solid #cccccc; 
+   max-width:250px; 
+   margin:0 auto;
+}
+
+.pogoda_header {
+    margin: 5px 0 15px 0 !important;
+    padding: 0px !important;
+}
+.pogoda_header p {
+   color: #a3b4c8 !important;
+   margin: 0 !important;
+   padding: 0 !important;
+   font-size: 120% !important;
+}
+
+.pogoda_img {
+   width: 70px;
+   display: inline-block;
+   margin-right: 25px;
+}
+
+.pogoda_inf {
+   display: inline-block;
+}
+
+.pogoda_inf p {
+   text-align: left!important;
+}
+
+#today_day, #today_night {
+   color: #000000 !important;
+   font-size: 120% !important;
+   font-weight: bold !important;
+}
+#today_cloudcover {
+   color: #a3b4c8 !important;
+   font-size: 120% !important;
+   font-weight: bold !important;
+}
+
+.pogoda_footer {
+   border-top: 1px solid #ff9944;
+   margin: 5px 0 0 0;
+}
+
+#days {
+  color: #a3b4c8 !important;
+}
+
+.pogoda_footer p {
+   margin: 5px 0;
+}
